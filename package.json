@@ -40,7 +40,7 @@
         "singleQuote": true,
         "trailingComma": "es5"
     },
-    "name": "jb-product-card",
+    "name": "jordib-product-card",
     "author": "Jordi Beltran",
     "module": "dist/jb-product-card.esm.js",
     "size-limit": [
