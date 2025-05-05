@@ -5,7 +5,7 @@ Este es un paquete de pruebas de despliegue en NPM
 
 ## Ejemplo
 ```
-import {} from 'jb-product-card'
+import {ProductCard, ProductImage, ProductTitle, ProductButtons} from 'jb-product-card'
 ```
 
 ```
